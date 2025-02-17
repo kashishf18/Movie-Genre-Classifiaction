@@ -28,13 +28,11 @@ Example Test Set Accuracy: 0.9351 (93.51%)
 Classification Report:
 
                precision    recall  f1-score   support
-
       comedy        1.00      0.35      0.52        66
  documentary        0.93      0.92      0.92      4392
        drama        0.94      0.95      0.95      6378
        short        0.00      0.00      0.00         4
-
-     accuracy                           0.94     10840
+      accuracy                           0.94     10840
     macro avg       0.72      0.55      0.60     10840
  weighted avg       0.93      0.94      0.93     10840
 
